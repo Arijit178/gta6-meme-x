@@ -1,5 +1,9 @@
 # GTA 6 Meme — "Waited 13 Years" (gta6-meme-x-01)
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Arijit178/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Arijit178/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 Entry for the make.fun bounty **"Post a GTA 6 meme on X"** — $500 shared by the top 50 entries.
 Bounty page: https://make.fun/bounty/gta6-meme-x-01
 
@@ -26,7 +30,7 @@ The caption carries make.fun (link and written out), @makefunai, and the play co
 
 - `meme.png` — the meme image to post (first picture on X).
 - `POST.json` — the real post: https://x.com/LordShiba017/status/2123497197459345596
-- `main.ts` — unchanged from the starter (Node 22, standard library only): it copies `POST.json` from the repository root to `/output/POST.json`, which is all the program has to do. The post itself is the entry; the house reads the post from X (its first picture and its text) and hands it to the judge.
+- `main.ts` — rewritten in our own words (Node 22, standard library only): it copies `POST.json` from the repository root to `/output/POST.json`, which is all the program has to do. The post itself is the entry; the house reads the post from X (its first picture and its text) and hands it to the judge.
 
 ## Run it locally
 
